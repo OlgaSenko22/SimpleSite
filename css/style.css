@@ -1,0 +1,138 @@
+body {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    background-color: #EEEFF1;
+    color: #000;
+}
+.menu {
+    padding-top: 79px;
+    padding-left: 399px;
+}
+.menu li {
+    display: inline-block;
+    margin-right: 30px;
+}
+.menu li a {
+    text-decoration: none;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    color: #000;
+}
+.another {
+    font-weight: 500;
+    color: #34547A;
+}
+#heading {
+    padding-top: 150px;
+    padding-left: 399px;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+    color: #000000;
+}
+.text {
+    width: 40%;
+    padding-top: 60px;
+    padding-left: 400px;
+    color: #727272;
+}
+.pre-btn {
+    padding-top: 65px;
+    padding-left: 399px;
+    padding-bottom: 140px;
+}
+.btn {
+    width: 225px;
+    height: 65px;
+    background: #34547A;
+    border: #34547A;
+}
+.btn span {
+    padding: 19px 41px 20px 41px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.about {
+    padding-top: 112px;
+    padding-bottom: 100px;
+}
+h2 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+}
+.lorem {
+    color: #727272;
+    width: 39%;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 418px;
+}
+.section {
+    width: 142%;
+    background-color: #34547A;
+}
+.container {
+    box-sizing: border-box;
+    display: inline-flex;
+}
+.one-box {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 400px;
+    margin-right: 49px;
+}
+.picture {
+    margin-right: 20px;
+}
+.paragraph-one {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+.paragraph-two {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.two-box {
+    margin-right: 49px;
+}
+.about-two {
+    padding-top: 100px;
+    padding-bottom: 57px;
+}
+.container-video {
+    padding-bottom: 100px;
+    padding-left: 400px;
+}
+.video {
+    width: 600px;
+    height: 400px;
+}
+.footer {
+    width: 142%;
+    background-color: #34547A;
+    color: #FFFFFF
+}
+.text-one {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+.text-two {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+}
+.footer div {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 400px;
+}
